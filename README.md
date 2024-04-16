@@ -2,7 +2,7 @@
 
 project for Nextniche by Team **Equalizers**
 <br>
-[project link]:()
+[project link]:(https://legendsareback.onrender.com/)
 
 ## Problem Statements
 
